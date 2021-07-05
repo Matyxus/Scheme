@@ -10,7 +10,7 @@ params used: width = 8, height = 16, chars=“ .,:;ox%#@”
 
 SVGen should be used in following way:
 (display (execute width1 height1 example '(call width2 height2))),
-where width1 and height1 are written in intial SVG print: "<svg width="400" height="400">",
+where width1 and height1 are written in intial SVG print: <svg width="400" height="400">,
 example is list containing function definitions,
 call is initial call of some function from example list, and width2, height2 are its parameters.
 Result of test 4, 5 can be seen in raw .txt form and also in .png
