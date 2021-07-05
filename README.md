@@ -12,7 +12,7 @@ params used: width = 8, height = 16, chars=“ .,:;ox%#@”
 (display (execute <ins>width1</ins> <ins>height1</ins> <ins>example</ins> '(<ins>call</ins> <ins>width2</ins> <ins>height2</ins>))),
 where <ins>width1</ins> and <ins>height1</ins> are written in intial SVG print: `<svg width="400" height="400">`,
 <ins>example</ins> is list containing function definitions,
-<ins>call</ins> is initial call of some function from example list, and <ins>width2</ins>, <ins>height2</ins> are its parameters.
+<ins>call</ins> is initial call of some function from <ins>example</ins> list, and <ins>width2</ins>, <ins>height2</ins> are its parameters.
 Result of test 4, 5 can be seen in raw .txt form and also in .png
 
 
