@@ -1,7 +1,7 @@
 # Scheme
 
 ###### Ascii-art:
-(display ((ascii-art width height chars) img)),
+(display ((ascii-art <ins>width</ins> height chars) img)),
 where width and height define size of rectangle from image (in pixels), 
 you want to be converted into some char (@, #, etc..) from list of chars.
 Result of arnold.png (img parameter) can be seen in arnold.txt, 
