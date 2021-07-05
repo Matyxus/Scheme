@@ -1,0 +1,7 @@
+<svg width="400" height="400">
+	<circle cx="200" cy="200" r="200" style="fill:white;stroke:green"/>
+	<circle cx="300.0" cy="200" r="100" style="fill:white;stroke:green"/>
+	<circle cx="350.0" cy="200" r="50" style="fill:white;stroke:green"/>
+	<circle cx="375.0" cy="200" r="25" style="fill:white;stroke:green"/>
+	<circle cx="387.0" cy="200" r="12" style="fill:white;stroke:green"/>
+</svg>
